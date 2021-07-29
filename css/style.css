@@ -1,0 +1,25 @@
+
+.navbar {
+    background-color: silver;
+}
+
+.quem-somos {
+    background-color: white;
+}
+
+.margin {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.descricao {
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+.nossotime {
+    background-color: rgb(217, 196, 235);
+}
+
+.footer {
+    background-color: silver;
+}
